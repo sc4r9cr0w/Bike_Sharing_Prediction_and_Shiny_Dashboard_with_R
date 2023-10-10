@@ -1,0 +1,6 @@
+"city","weather","visibility","temp","temp_min","temp_max","pressure","humidity","wind_speed","wind_deg"
+"Seoul","Clear",10000,22.75,19.69,22.78,1020,43,1.54,340
+"Seoul","Clear",10000,22.75,19.69,22.78,1020,43,1.54,340
+"Washington","Clouds",10000,12.21,9.48,14.95,1001,69,1.71,271
+"Paris","Clear",10000,12.47,9.34,14.88,1022,84,1.54,220
+"Suzhou","Rain",10000,23.18,23.18,23.18,1022,49,4.25,2
